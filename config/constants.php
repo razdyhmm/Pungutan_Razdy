@@ -14,7 +14,7 @@ define('ALLOWED_EXTENSIONS', ['pdf', 'doc', 'docx', 'jpg', 'jpeg', 'png']);
 define('USER_TYPE_ADMIN', 'admin');
 define('USER_TYPE_EMPLOYEE', 'employee');
 
-// Base URL path for header redirects (adjust if project is served from a subfolder)
 define('BASE_URL', '/employee_leave_system');
+
 
 
