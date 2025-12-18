@@ -1,0 +1,12 @@
+ADMIN ACCOUNT:
+
+admin@gmail.com
+pass: admin123
+
+
+Employees:
+
+kierl@gmail.com
+Con@gmail.com
+drow@gmail.com
+pass: 12345
